@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Scaping 
 - 🌱 I’m currently learning how to scape data off complex websites 
-- 🤔 I’m looking for help with web scarping 
+- 🤔 I’m looking for help with web scraping 
 - 📫 How to reach me: ...
