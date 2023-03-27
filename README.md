@@ -1,14 +1,5 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on Web Scaping 
-- 🌱 I’m currently learning how to scape data off complex websites 
-- 🤔 I’m looking for help with web scraping 
-- You can reach me via : [Linkedin](www.linkedin.com/in/ranai-kuruma)
-
-## My Skillset
--:snake: Python
-
--Beautfiul Soup 
-
--Selenium 
+# Hi There ! 
+- Thank you for visiting my profile 
+- I am Ranai Kuruma an aspiring Data Analyst who at present is learning Data Analysis and finding my domain in the world of data 
+- Feel free to reach me via the following links :
+- [Linkedin](https://www.linkedin.com/in/ranai-kuruma/)
