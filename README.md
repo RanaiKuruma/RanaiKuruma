@@ -4,7 +4,6 @@
 - Feel free to reach me via the following links :
 - [Linkedin](https://www.linkedin.com/in/ranai-kuruma/)
 - [Twitter](https://twitter.com/RanaiKuruma)
-- [Portfolio](https://www.datascienceportfol.io/ranaikuruma)
 
 ## Techstack 
 - Python
