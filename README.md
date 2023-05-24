@@ -12,3 +12,4 @@
 - Excel
 - Beautiful Soup
 - Selenium 
+- EDA
