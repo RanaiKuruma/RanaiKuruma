@@ -6,9 +6,10 @@
 - [Twitter](https://twitter.com/RanaiKuruma)
 
 ## Techstack 
-- Python
+- Python: Numpy, Pandas, Matplotlib, Seaborn
 - Postgres SQL 
 - Numpy
 - Excel
 - Beautiful Soup
-- Selenium 
+- Selenium
+- scikit learn
